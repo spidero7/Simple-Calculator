@@ -45,7 +45,7 @@ input[type="text"] {
 }
 
 input[value="c"], .equals {
-    background-color: rgb(255, 123, 0);
+    background-color: rgb(250, 3, 3);
 }
 
 .action {
