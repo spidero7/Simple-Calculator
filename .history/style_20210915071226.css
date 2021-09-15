@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.calculator-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 50vh;
+}
+
+.title {
+    text-align: center;
+    margin: 20px;
+    font-size: 3rem;
+}
+
+input[type="button"] {
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    border-color: ;
+}

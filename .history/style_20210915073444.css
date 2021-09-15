@@ -37,6 +37,7 @@ input[type="button"] {
 input[type="text"] {
     text-align: right;
     background-color: none;
+    
     color: white;
     border: none;
     width: 100%;

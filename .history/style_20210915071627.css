@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+
+input[type="button"] {
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    border-color: black;
+    width: 100%;
+}
+
+input[type="text"] {
+    border-radius: 10px;
+    text-align: right;
+    background-color: black;
+    color: white;
+    border-color: white;
+    width: 100%;
+}

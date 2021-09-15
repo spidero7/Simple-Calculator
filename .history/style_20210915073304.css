@@ -24,7 +24,7 @@ body {
 }
 
 input[type="button"] {
-    background-color: aqua;
+    background-color: none
     color: white;
     border-radius: 5px;
     border-color: black;
@@ -35,10 +35,11 @@ input[type="button"] {
 }
 
 input[type="text"] {
+    border-radius: 5px;
     text-align: right;
-    background-color: none;
+    background-color: black;
     color: white;
-    border: none;
+    border-color: white;
     width: 100%;
     padding: 15px;
 }

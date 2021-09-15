@@ -30,15 +30,16 @@ input[type="button"] {
     border-color: black;
     width: 100%;
     padding: 20px;
-    font-size: 25px;
+    font-size: 22px;
     cursor: pointer;
 }
 
 input[type="text"] {
+    border-radius: 5px;
     text-align: right;
-    background-color: none;
+    background-color: black;
     color: white;
-    border: none;
+    border-color: white;
     width: 100%;
     padding: 15px;
 }

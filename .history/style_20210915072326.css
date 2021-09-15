@@ -12,15 +12,13 @@ body {
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 60vh;
+    height: 50vh;
 }
 
 .title {
-    display: flex;
     text-align: center;
     margin: 20px;
     font-size: 3rem;
-    justify-content: center;
 }
 
 input[type="button"] {
@@ -30,15 +28,14 @@ input[type="button"] {
     border-color: black;
     width: 100%;
     padding: 20px;
-    font-size: 25px;
-    cursor: pointer;
 }
 
 input[type="text"] {
+    border-radius: 5px;
     text-align: right;
-    background-color: none;
+    background-color: black;
     color: white;
-    border: none;
+    border-color: white;
     width: 100%;
-    padding: 15px;
+    padding: 20px;
 }
