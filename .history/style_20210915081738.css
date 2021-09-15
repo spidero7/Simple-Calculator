@@ -37,9 +37,8 @@ input[type="button"] {
 input[type="text"] {
     text-align: right;
     background-color: none;
-    color: black;
+    color: b
     border: none;
     width: 100%;
-    padding: 20px;
-    font-size: 20px;
+    padding: 15px;
 }

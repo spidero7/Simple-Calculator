@@ -2,7 +2,7 @@ function display(val) {
     document.getElementById("textval").value+=val
 }
 
-function equals() {
+function e() {
     let x = document.getElementById("textval").value
     let y = eval(x)
     document.getElementById('textval').value = y
